@@ -1,0 +1,6 @@
+{
+  "name": "Jeda – EMA Mahasiswa Skripsi",
+  "description": "Aplikasi Ecological Momentary Assessment (EMA) untuk pemantauan stres harian dan pencegahan burnout mahasiswa skripsi secara anonim dan privat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
